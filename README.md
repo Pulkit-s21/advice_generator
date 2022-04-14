@@ -26,3 +26,6 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 Users should be able to:
 
 - Click the dice and get a random advice with its ID from the API and webpage should launch with an advice
+
+
+Live Site URL: https://advice-card-0a6966.netlify.app/
